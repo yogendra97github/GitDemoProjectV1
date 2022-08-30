@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Reading browser details from testing xml"
+           tests="10"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.077">
+  <properties />
+  
+  
+            <testcase name="mobileCategory" time="0.011" classname="com.amazone.testing.Test1" />
+                <testcase name="mobileCategory" time="0.005" classname="com.amazone.testing.Test1" />
+                <testcase name="mobileCategory" time="0.010" classname="com.amazone.testing.Test1" />
+                <testcase name="mobileCategory" time="0.012" classname="com.amazone.testing.Test1" />
+                <testcase name="mobileCategory" time="0.005" classname="com.amazone.testing.Test1" />
+                <testcase name="mobileCategory" time="0.013" classname="com.amazone.testing.Test1" />
+                <testcase name="mobileCategory" time="0.006" classname="com.amazone.testing.Test1" />
+                <testcase name="mobileCategory" time="0.005" classname="com.amazone.testing.Test1" />
+                <testcase name="mobileCategory" time="0.008" classname="com.amazone.testing.Test1" />
+                <testcase name="mobileCategory" time="0.002" classname="com.amazone.testing.Test1" />
+      
+</testsuite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Reading browser details from testing xml]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Reading browser details from testing xml(failed)">
+    <parameter name="browser" value=""/>
+    <classes>
+      <class name="ui.ActionExample">
+        <methods>
+          <include name="draggable"/>
+          <include name="beforeClass"/>
+          <include name="droppable"/>
+        </methods>
+      </class> <!-- ui.ActionExample -->
+    </classes>
+  </test> <!-- Reading browser details from testing xml(failed) -->
+</suite> <!-- Failed suite [Reading browser details from testing xml] -->

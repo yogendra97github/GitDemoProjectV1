@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="11.876">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testloginSignupForPersonalAccount"
+                time="11.876"
+                classname="com.gmail.tests.TestLoginAndSignUp">
+            </testcase>
+</testsuite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Reading browser details from testing xml"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.024">
+  <properties />
+  
+  
+            <testcase name="homepage" time="0.002" classname="com.amazone.testing.Test2" />
+                <testcase name="login" time="0.002" classname="com.amazone.testing.Test2" />
+                <testcase name="signup" time="0.004" classname="com.amazone.testing.Test2" />
+                <testcase name="shoeCategory" time="0.007" classname="com.amazone.testing.Test2" />
+                <testcase name="productDP" time="0.004" classname="com.amazone.testing.Test2" />
+                <testcase name="shippingDetails" time="0.005" classname="com.amazone.testing.Test2" />
+      
+</testsuite>
